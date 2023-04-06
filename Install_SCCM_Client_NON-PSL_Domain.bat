@@ -1,0 +1,1 @@
+Ccmsetup.exe /UsePKICert /NoCRLCheck /mp:https://hj-cmp.persistent.co.in SMSSITECODE=HJP SMSMP=https://hj-cmp.persistent.co.in FSP=hj-cmp.persistent.co.in SMSLP=hj-cmp.persistent.co.in DNSSUFFIX=persistent.co.in
